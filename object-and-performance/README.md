@@ -1,6 +1,6 @@
 # Object and Performance
 
-This repository focuses on various operations related to JavaScript objects, with an emphasis on performance analysis. Each operation includes detailed comments explaining the functionality and time complexity.
+In this folder, I've focused on various operations related to JavaScript objects, with an emphasis on performance analysis. Each operation includes detailed comments explaining the functionality and time complexity.
 
 ## Table of Contents
 - [Overview](#overview)
