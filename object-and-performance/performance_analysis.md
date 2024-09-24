@@ -32,12 +32,10 @@ This document provides a detailed analysis of the time complexity for various op
 7. **mergeObjects**
    - **Description**: Merges properties from the source object into the target object.
    - **Time Complexity**: O(n)
-   - **Note**: n is the number of properties in the source object.
 
 8. **cloneObject**
    - **Description**: Creates a shallow copy of an object.
    - **Time Complexity**: O(n)
-   - **Note**: n is the number of properties in the object.
 
 9. **isEmptyObject**
    - **Description**: Checks if an object has no properties.
